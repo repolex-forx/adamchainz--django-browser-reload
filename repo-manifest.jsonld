@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/adamchainz/django-browser-reload/commit/9e07824fe16e413fccf4078bd8d5e68b75a553c7",
       "git:hexsha": "9e07824fe16e413fccf4078bd8d5e68b75a553c7",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/adamchainz/django-browser-reload/commit/362c0df7ac5bce5e99d282e1766e9a26bf7cbd50",
