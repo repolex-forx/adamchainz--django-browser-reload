@@ -1,0 +1,11 @@
+{
+  "org": "adamchainz",
+  "repo": "django-browser-reload",
+  "versions": [
+    {
+      "commit": "9e07824fe16e413fccf4078bd8d5e68b75a553c7",
+      "tag": "",
+      "parsed_at": "2026-10-18T13:42:44.858709+00:00"
+    }
+  ]
+}
